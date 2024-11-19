@@ -1,13 +1,9 @@
-Welcome to my work in progress
+TACC Tutorial: Installing Miniforge, Setting Up Conda, and Installing PyTorch on Frontera
 ===================================
 
-**Conda** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`How to Install Miniforge` section for further information, including
-how to :ref:`installation` the project.
+Welcome to the TACC Tutorial! This guide will help you install Miniforge, 
+create and activate a Conda environment, and install PyTorch on the Frontera machine. 
+By the end, you'll have a working setup to run machine learning tasks using PyTorch.
 
 .. note::
 
