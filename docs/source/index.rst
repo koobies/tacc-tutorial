@@ -14,6 +14,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 3
 
    How to Install Miniforge
    How to Create an Environment
