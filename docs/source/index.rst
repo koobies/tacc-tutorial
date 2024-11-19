@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to my work in progress
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   How to Install Miniforge
+   How to Create an Environment
+   How to Install Pytorch
