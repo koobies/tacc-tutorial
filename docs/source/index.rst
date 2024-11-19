@@ -17,3 +17,6 @@ Contents
    How to Install Miniforge
    How to Create an Environment
    How to Install Pytorch
+
+Why Conda
+---------
