@@ -24,4 +24,4 @@ Why Conda
 
 .. note:: 
 
-   This page is also under dev.
+   This page is also under dev. Why is this not updating
