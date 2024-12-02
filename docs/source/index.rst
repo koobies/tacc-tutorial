@@ -8,7 +8,6 @@ By the end, you'll have a working setup to run machine learning tasks using PyTo
 .. note::
 
    This project is under active development.
-but whyyyy
 
 Contents
 --------
@@ -22,3 +21,7 @@ Contents
 
 Why Conda
 ---------
+
+.. note:: 
+
+   This page is also under dev.
